@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+button{
+    color: gold;
+    background: #000;
+    cursor: pointer;
+    padding: 10px 20px;
+}
