@@ -1,0 +1,39 @@
+*{
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h1 , h3{
+    color: #b92b27;
+}
+
+#login{
+    background-color: antiquewhite;
+}
+
+#signup{
+    background-color: #b92b27;
+    color: white;
+}
+
+.upvote{
+    background-color: green;
+    color: white;
+}
+
+p a{
+    color: purple;
+}
+
+p + h3{
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: aqua;
+    color: black;
+}
