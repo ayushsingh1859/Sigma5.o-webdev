@@ -37,3 +37,31 @@ p + h3{
     background-color: aqua;
     color: black;
 }
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+h3:hover{
+    text-decoration: none;
+}
+button:active{
+    background-color: red;
+   
+}
+p:active{
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+h3::first-letter{
+    font-size: bold;
+    color: gold;
+}
+
+p::selection{
+    background-color: yellow;
+    color: black;
+}
